@@ -6,6 +6,6 @@ bool cmp(string a, string b){
 }
 int main(){
   cout << "Hello World! ";
-  
+  cout << "Using git";
   return 0;
 }
